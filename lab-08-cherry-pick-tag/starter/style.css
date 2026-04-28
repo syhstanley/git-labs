@@ -1,0 +1,8 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: sans-serif; max-width: 800px; margin: 40px auto; padding: 0 20px; color: #333; }
+header { border-bottom: 1px solid #eee; padding-bottom: 16px; margin-bottom: 24px; }
+h1 { font-size: 2rem; }
+nav a { color: #0070f3; text-decoration: none; }
+ul { list-style: none; }
+li { margin-bottom: 12px; }
+a { color: #0070f3; }
